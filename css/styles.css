@@ -56,7 +56,7 @@ a {
 }
 
 img {
-	max-width: 100%;
+	width: 100%;
 }
 
 .contenedor {
@@ -139,13 +139,6 @@ header {
 .producto {	
     background-color: var(--primarioOscuro);
     padding: 1rem;
-}
-
-.producto__imagen {
-    width: 100%;
-}
-
-.producto__informacion {
 }
 
 .producto__nombre {
@@ -236,9 +229,6 @@ header {
     text-align: center;
 }
 
-.bloque__imagen {
-    width: 100%;
-}
 
 .bloque__titulo {
     margin: 0%;
